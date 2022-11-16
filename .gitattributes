@@ -32,10 +32,10 @@
 *.css linguist-detectable=true
 *.css linguist-documentation=false
 *.css linguist-language=CSS
-# BitBake source file
-*.bb linguist-detectable=true
-*.bb linguist-documentation=false
-*.bb linguist-language=BitBake
+# Q# source file
+*.qs linguist-detectable=true
+*.qs linguist-documentation=false
+*.qs linguist-language=Q#
 # JSON (JavaScript Object Notation) source file
 *.json linguist-detectable=false
 *.json linguist-documentation=false
@@ -174,6 +174,6 @@
 
 # File info
 # File type: gitattributes file (.gitattributes)
-# File version: 2 (2022, Tuesday, August 30th at 2:34 pm PST)
+# File version: 3 (2022, Tuesday, November 15th at 9:21 pm PST)
 # Line count (including blank lines and compiler line): 180
 # End of script
